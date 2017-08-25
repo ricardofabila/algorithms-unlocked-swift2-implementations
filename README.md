@@ -9,7 +9,7 @@ Algorithms Unlocked/
     CH3: Algorithms for Sorting and Searching/
         - Binary Search
         - Selection Sort
-        - Insetion Sorts
+        - Insertion Sorts
         - Merge Sort
         - Quicksort
     CH5: Directed Acyclic Graphs/
